@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AnthropMMD"]
+	path = AnthropMMD
+	url = https://gitlab.com/f-santos/anthropmmd
+	shallow = true
+	registered = true
+[submodule "PELVIS"]
+	path = PELVIS
+	url = https://gitlab.com/f-santos/pelvis
+	shallow = true
+	registered = true
